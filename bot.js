@@ -8,7 +8,7 @@ import fs from "fs-extra";
 const OWNER_ID = 8113738409;
 const TOKEN = "8280734566:AAEGtiBJNBSsKbCWwYIb9ArvdE20-p7PSeU";
 const OPENAI_API_KEY =
-    "";
+    "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";
 const DATA_FILE = "./data.json";
 const contohBuktiUrl = "https://files.catbox.moe/8fdsz0.jpg";
 const bot = new TelegramBot(TOKEN, {

@@ -21,10 +21,10 @@
   },
   "8113738409": {
     "nama": "❄️ Akun Terhapus",
-    "saldo": 88200,
+    "saldo": 94400,
     "referral": 21,
-    "lastClaim": "12/11/2025",
-    "referrals": 45,
+    "lastClaim": "13/11/2025",
+    "referrals": 48,
     "gratis": false
   },
   "8124467849": {
@@ -144,9 +144,9 @@
   },
   "8401389197": {
     "nama": "⏤‌‌‌‌𝐃𝐂𝐗𝐓 𝐓𝐄𝐀𝐌 𝕯𝕬𝕲𝕱𝕬",
-    "saldo": 800,
+    "saldo": 1000,
     "referral": 0,
-    "lastClaim": "9/11/2025"
+    "lastClaim": "13/11/2025"
   },
   "8036383545": {
     "saldo": 500,
@@ -184,10 +184,10 @@
     "usedReferral": true
   },
   "7307274500": {
-    "saldo": 2600,
+    "saldo": 2800,
     "gratis": false,
     "referrals": 1,
-    "lastClaim": "9/11/2025",
+    "lastClaim": "13/11/2025",
     "usedReferral": true
   },
   "7781726769": {
@@ -198,10 +198,10 @@
     "usedReferral": true
   },
   "-1002756345186": {
-    "saldo": 1200,
+    "saldo": 1400,
     "gratis": false,
     "referrals": 0,
-    "lastClaim": "12/11/2025",
+    "lastClaim": "13/11/2025",
     "usedReferral": false
   },
   "7861475578": {
@@ -232,10 +232,10 @@
     "usedReferral": true
   },
   "7673626370": {
-    "saldo": 200,
+    "saldo": 400,
     "gratis": false,
     "referrals": 0,
-    "lastClaim": "7/11/2025",
+    "lastClaim": "13/11/2025",
     "usedReferral": true
   },
   "7974773424": {
@@ -419,10 +419,10 @@
     "usedReferral": true
   },
   "8260478901": {
-    "saldo": 400,
+    "saldo": 600,
     "gratis": false,
     "referrals": 0,
-    "lastClaim": "12/11/2025",
+    "lastClaim": "13/11/2025",
     "usedReferral": true
   },
   "7683295150": {
@@ -475,10 +475,10 @@
     "usedReferral": false
   },
   "7776785828": {
-    "saldo": 600,
+    "saldo": 800,
     "gratis": true,
     "referrals": 0,
-    "lastClaim": "12/11/2025",
+    "lastClaim": "13/11/2025",
     "usedReferral": true
   },
   "8423002416": {
@@ -588,10 +588,10 @@
     "lastClaim": "12/11/2025"
   },
   "8058118208": {
-    "saldo": 0,
+    "saldo": 200,
     "gratis": true,
     "referrals": 0,
-    "lastClaim": null,
+    "lastClaim": "13/11/2025",
     "usedReferral": true
   },
   "7914964250": {
@@ -650,13 +650,6 @@
     "lastClaim": null,
     "usedReferral": true
   },
-  "7601963421": {
-    "saldo": 16000,
-    "gratis": false,
-    "referrals": 8,
-    "lastClaim": null,
-    "usedReferral": true
-  },
   "8499828003": {
     "saldo": 0,
     "gratis": false,
@@ -712,5 +705,26 @@
     "referrals": 0,
     "lastClaim": null,
     "usedReferral": true
+  },
+  "8389580431": {
+    "saldo": 0,
+    "gratis": false,
+    "referrals": 0,
+    "lastClaim": null,
+    "usedReferral": true
+  },
+  "6482286836": {
+    "saldo": 0,
+    "gratis": false,
+    "referrals": 0,
+    "lastClaim": null,
+    "usedReferral": true
+  },
+  "7770825016": {
+    "saldo": 0,
+    "gratis": false,
+    "referrals": 0,
+    "lastClaim": null,
+    "usedReferral": true
   }
-}
+  }

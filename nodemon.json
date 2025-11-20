@@ -1,6 +1,0 @@
-{
-  "watch": ["bot.js"],
-  "ext": "js",
-  "ignore": ["node_modules"],
-  "exec": "node bot.js"
-}
